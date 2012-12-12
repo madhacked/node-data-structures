@@ -1,0 +1,19 @@
+
+{
+  "name": "node-data-structures",
+  "description": "Helpful data structures for NodeJS",
+  "version": "0.0.1",
+  "author": "Joe Munoz <jiznomunoz@hotmail.com>",
+  "keywords": [
+    "hashmap",
+    "linkedlist",
+    "heap",
+    "trie",
+    "nodejs",
+  ],
+  "main": "index",
+  "engines": {
+    "node": ">=0.4.6"
+  },
+  "license": "MIT"
+}
